@@ -1,16 +1,13 @@
 ### Hi there 👋
+Here's wrj2009, a primary school student from China. 
 
-<!--
-**wrj2009/wrj2009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Links
+- [My blog](https://wrj2009.github.io)  
+- [My account in Gitblock](https://gitblock.cn/Users/1112718)  
+- [My account in Gitee](https://gitee.com/wrj2009)  
+- [My account in Bilibili](https://space.bilibili.com/667011224)  
+- [Send a email to me](mailto:wrj-2009@qq.com)  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stats
+[![](https://github-readme-stats.vercel.app/api?username=wrj2009&show_icons=true&bg_color=0d1117&text_color=c8d0d8&icon_color=58a5fe)](https://github-readme-stats.vercel.app/api?username=wrj2009&show_icons=true&bg_color=0d1117&text_color=c8d0d8&icon_color=58a5fe)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=wrj2009&bg_color=0d1117&text_color=c8d0d8&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=wrj2009&bg_color=0d1117&text_color=c8d0d8&layout=compact)
