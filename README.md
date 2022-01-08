@@ -2,7 +2,6 @@
 我是Scratcher-wrj，一个做不出好东西的Scratcher。
 
 #### Links | 链接
-- [My blog | 博客（停止更新）](https://wrj2009.github.io)  
 - [Gitblock | 稽木世界](https://gitblock.cn/Users/1112718)  
 - [Gitee | 码云](https://gitee.com/wrj2009)  
 - [BiliBili | 哔哩哔哩](https://space.bilibili.com/667011224)  
