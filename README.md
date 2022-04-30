@@ -1,5 +1,5 @@
 ## Hi there! 👋
-我是Scratcher-wrj，一个做不出好东西的Scratcher。
+我是 Scratcher-wrj，一个做不出好东西的 Scratcher。
 
 #### Links | 链接
 - [Gitblock | 稽木世界](https://gitblock.cn/Users/1112718)  
