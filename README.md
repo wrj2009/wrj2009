@@ -8,6 +8,6 @@
 - [Send an email | 发送电子邮件到wrj-2009@qq.com](mailto:wrj-2009@qq.com)  
 
 #### Statistics | 统计数据
-![图片可能加载失败](https://github-readme-stats.vercel.app/api?username=wrj2009&show_icons=true&text_color=c8d0d8&hide_border=true)  
-![图片可能加载失败](https://github-readme-stats.vercel.app/api/top-langs/?username=wrj2009&text_color=c8d0d8&layout=compact&hide_border=true)  
-![图片可能加载失败](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wrj2009&theme=github_light)![图片可能加载失败](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wrj2009&theme=github_light)![图片可能加载失败](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wrj2009&theme=github_light&utcOffset=8)
+![图片可能加载失败](https://github-readme-stats.vercel.app/api?username=wrj2009&show_icons=true&hide_border=true)  
+![图片可能加载失败](https://github-readme-stats.vercel.app/api/top-langs/?username=wrj2009&layout=compact&hide_border=true)  
+![图片可能加载失败](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wrj2009&theme=github)![图片可能加载失败](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wrj2009&theme=github)![图片可能加载失败](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wrj2009&theme=github&utcOffset=8)
